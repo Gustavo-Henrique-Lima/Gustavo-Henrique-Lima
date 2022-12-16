@@ -1,6 +1,6 @@
-#😄 Olá! Bem-vindo ao meu perfil do Github.
-## Meu nome é Gustavo.
-- 🔭 Atualmente curso Engenharia de Software ...
+## Olá! Bem-vindo ao meu perfil do Github. 😄
+### Meu nome é Gustavo.
+- 🔭 Atualmente curso Engenharia de Software.
 <!--
 **Gustavo-Henrique-Lima/Gustavo-Henrique-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
