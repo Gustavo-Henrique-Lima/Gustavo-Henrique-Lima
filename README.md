@@ -1,6 +1,8 @@
 ## Olá! Bem-vindo ao meu perfil do Github. 😄
 ### Meu nome é Gustavo.
-- 🔭 Atualmente curso Engenharia de Software.
+- 👨‍💻 Técnico em Informática para a Internet - IFPE
+- 👨‍🎓 Estudante de Engenharia de Software - IFPE
+- 💻 Liguagens de programação Java, Python, PHP, Javascript.
 
 <!--
 **Gustavo-Henrique-Lima/Gustavo-Henrique-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
