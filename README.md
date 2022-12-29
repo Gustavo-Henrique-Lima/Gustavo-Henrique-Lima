@@ -8,10 +8,6 @@
 
 ## Olá mundo!<br>Bem-vindo ao meu perfil do Github. 😄
 
-### Formações
-- 🎓 Graduando em Engenharia de Software - (IFPE - Campus Belo Jardim) - 2021 - 2024
-- 🎓 Técnico em Informática - (IFPE - Campus Belo Jardim) - 2022
-
 <!--
 **Gustavo-Henrique-Lima/Gustavo-Henrique-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,6 +27,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Henrique-Lima&show_icons=true&theme=dracula&tinclude_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Henrique-Lima&layout=compact&theme=dracula&langs_count=6"/>
 </div>
+
+## Formações
+- 🎓 Graduando em Engenharia de Software - (IFPE - Campus Belo Jardim) - 2021 - 2024
+- 🎓 Técnico em Informática - (IFPE - Campus Belo Jardim) - 2022
 
 ## :octocat:  Principais Habilidades
 <div>
