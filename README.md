@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🎓 Graduando em Engenharia de Software - (IFPE - Campus Belo Jardim) - 2021 - 2024
 - 🎓 Técnico em Informática - (IFPE - Campus Belo Jardim) - 2022
 
-## :octocat:  Principais Habilidades
+## Principais Habilidades
 <div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> 
