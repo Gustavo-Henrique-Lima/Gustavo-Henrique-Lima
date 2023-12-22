@@ -1,12 +1,11 @@
-,# Gustavo Henrique
+## Olá mundo! Eu sou Gustavo Henrique.
+## Bem-vindo ao meu perfil do Github. 😄
 
 <div>
   <a href="gustavohgustavo@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
  <a href="https://www.linkedin.com/in/gustavo-henrique-java/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
  <a href="https://www.hackerrank.com/gustavohgustavo" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"/></a>
 </div>
-
-## Olá mundo!<br>Bem-vindo ao meu perfil do Github. 😄
 
 <!--
 **Gustavo-Henrique-Lima/Gustavo-Henrique-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
