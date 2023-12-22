@@ -1,5 +1,4 @@
 ## Olá mundo! Eu sou Gustavo Henrique.
-## Bem-vindo ao meu perfil do Github. 😄
 
 <div>
   <a href="gustavohgustavo@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Bem-vindo ao meu perfil do Github. 😄
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Henrique-Lima&show_icons=true&theme=dracula&tinclude_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Henrique-Lima&layout=compact&theme=dracula&langs_count=6"/>
