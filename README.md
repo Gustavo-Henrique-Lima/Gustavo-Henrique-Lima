@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Formações
-- 🎓 Graduando em Engenharia de Software - (IFPE - Campus Belo Jardim) - 2021 - 2024
+- 🎓 Graduando em Engenharia de Software - (IFPE - Campus Belo Jardim) - 2021 - 2025
 - 🎓 Técnico em Informática - (IFPE - Campus Belo Jardim) - 2022
 
 ## Principais Tecnologias
