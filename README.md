@@ -10,7 +10,7 @@
 </div>
 
 ## Education
-- 🎓 Bachelor's Degree in Software Engineering - (IFPE - Belo Jardim Campus) - 2021 - 2025
+- 🎓 Bachelor's Degree in Software Engineering - (IFPE - Belo Jardim Campus) - 2025
 - 🎓 Technical Degree in Computer Science - (IFPE - Belo Jardim Campus) - 2022
 
 ## Main skills
